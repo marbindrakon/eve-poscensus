@@ -1,0 +1,10 @@
+POS Census is a simple script that gathers CHAs and SMAs from the Corp Assets and Locations API calls and correlates them with POSes in space. It returns a list of POSes with their CHA and SMA names and itemIDs.
+
+To Use:
+
+1. Edit census.py, adding your API information and the systemID of the system you want to check
+2. Run the program, results will be output to stdout
+
+Requirements:
+
+POS Census requires the eveapi library. You may use the requirements.txt file as a version references, although earlier versions will probably work.

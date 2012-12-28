@@ -1,0 +1,2 @@
+eveapi==1.2.6
+wsgiref==0.1.2
